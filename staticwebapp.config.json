@@ -1,9 +1,0 @@
-{
-  "routes": [
-    {
-      "route": "40.69.106.98",
-      "redirect": "/index.html",
-      "statusCode": 200
-    }
-  ]
-}
